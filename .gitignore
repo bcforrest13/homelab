@@ -1,0 +1,25 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Ansible
+*.retry
+ansible/inventory/*.local.yml
+
+# Secrets — NEVER commit these
+.env
+*.key
+*.pem
+secrets.yml
+ansible/vault/
+
+# Logs
+*.log
+logs/

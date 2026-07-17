@@ -18,6 +18,8 @@ ansible/inventory/*.local.yml
 *.key
 *.pem
 secrets.yml
+secret*.yml
+vault/
 ansible/vault/
 
 # Logs

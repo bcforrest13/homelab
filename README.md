@@ -40,4 +40,4 @@ Clone, read the README in each subfolder, and reproduce. Everything is
 intended to be runnable on a similar OCI Always-Free shape.
 
 ---
-*Maintained by [your-name-here]. Built publicly as a learning + job-search artifact.*
+*Maintained by BC Forrest (@bcforrest) on GitHub. Built publicly as a learning + job-search artifact.*

@@ -49,6 +49,8 @@ docker volume ls
 ```
 **Outcome:** All playground resources removed. Only `kanboard` remains.
 
+**Why this order matters:** Docker enforces dependency rules during teardown. Networks cannot be removed while containers are attached, and volumes cannot be removed while actively mounted by a container. Therefore: remove containers first, then volumes, then networks.
+
 ---
 
 ## Quick Reference

@@ -5,7 +5,7 @@ Web/mobile app about making very small changes to lifestyle rather than dramatic
 
 ## MVP Scope
 - Daily/progress tabs for 1% micro-adjustments
-- Focus areas: steps, calories, sleep, screen time, water + custom activities
+- Focus areas: steps, calories, screen time, water + custom activities
 - Local quote of the day in footer
 - Accountability partner ("buddy system") with invite flow
 - Manage tab: show/hide activities, edit values/units/delta%, add custom activities
